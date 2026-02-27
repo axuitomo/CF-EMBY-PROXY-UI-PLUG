@@ -1,0 +1,13 @@
+{
+    "name": "Emos标准",
+    "items": [
+        {
+            "k": "EMOS-PROXY-ID",
+            "v": "eABCDEFGHs"
+        },
+        {
+            "k": "EMOS-PROXY-NAME",
+            "v": "@emos"
+        }
+    ]
+}
